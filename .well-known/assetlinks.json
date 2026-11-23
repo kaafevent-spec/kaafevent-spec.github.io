@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kaafevent.wishesbooth",
+    "sha256_cert_fingerprints": ["8E:B8:D2:FE:8F:E1:E9:D9:61:B2:76:A2:20:72:A8:92:01:83:19:E5:19:C5:4E:F9:A1:3F:0F:31:2A:37:59:BB"]
+  }
+}]

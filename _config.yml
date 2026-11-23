@@ -1,0 +1,7 @@
+# GitHub Pages: publish the booth, the Android app-link file, and nothing else
+include:
+  - .well-known
+exclude:
+  - android
+  - .github
+  - _redirects
